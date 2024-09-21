@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 ## 🌱 About Me
 
 - 🌍 **Location**: Chennai / Vellore.
-- 🎓 **Student**: [Rajalakshmi Engineering College]
+- 🎓 **Student**: Rajalakshmi Engineering College.
 
 
 ---
