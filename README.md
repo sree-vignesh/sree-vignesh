@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 ## 🌱 About Me
 
-- 🌍 **Location**: [Your Location]
+- 🌍 **Location**: Chennai / Vellore.
 - 💻 **Currently Working On**: [Your Current Project/Technology]
 - 🎓 **Learning**: [Technologies/Skills You're Currently Learning]
 - 🤔 **Looking for Help With**: [Your Learning Goals or Projects]
@@ -26,24 +26,28 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 ![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=flat-square&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B400?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-## 🏆 Achievements
-
-- 🎖️ Completed [Certification Name](link_to_certification)
-- 🏅 Contributed to [Open Source Project](link_to_project)
-- 📚 Published an article on [Your Blog](link_to_blog)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-7A0A0A?style=flat-square&logo=burp&logoColor=white)
 
 ---
 
@@ -56,17 +60,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-- [Twitter](https://twitter.com/YOUR_TWITTER_HANDLE)
-- [Personal Website](https://YOUR_WEBSITE_URL)
-- [Dev.to](https://dev.to/YOUR_DEVTO_PROFILE)
-
----
-
-## ✨ Featured Projects
-
-- **[Project Name](https://github.com/sree-vignesh/YOUR_PROJECT)**: Brief description of what the project is about.
-- **[Another Project](https://github.com/sree-vignesh/ANOTHER_PROJECT)**: Brief description of this project.
+- [LinkedIn](https://in.linkedin.com/in/sree-vignesh-807284249)
 
 ---
 
@@ -76,31 +70,14 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 ---
 
-## 📅 Recent Activity
-
-<!--START_SECTION:activity-->
-- 💬 Commented on [Issue #123](https://github.com/REPO/issue/123) in [REPO](https://github.com/REPO)
-- 🎉 Merged pull request [#456](https://github.com/REPO/pull/456) in [REPO](https://github.com/REPO)
-<!--END_SECTION:activity-->
-
----
 
 ## 📈 Weekly Contribution Activity
 
-![Weekly Contribution Activity](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)
+![Weekly Contribution Activity](https://github-readme-stats.vercel.app/api/wakatime?username=sree-vignesh)
 
 ---
 
-## 📝 Personal Quote
 
-> "Your quote goes here." – Sree Vignesh
-
----
-
-## 🎉 Fun Fact
-
-Did you know that [insert an interesting fact about yourself or programming]?
-
----
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me!
+And make sure to smile!
