@@ -1,22 +1,15 @@
+![Profile Views](https://komarev.com/ghpvc/?username=sree-vignesh&color=blue)
+
 # 👋 Hello, I'm Sree Vignesh!
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions. Here, you can find my projects, contributions, and a little about me!
 
----
-
-## 📈 Profile Visits
-
-![Profile Views](https://komarev.com/ghpvc/?username=sree-vignesh&color=blue)
-
----
 
 ## 🌱 About Me
 
 - 🌍 **Location**: Chennai / Vellore.
-- 💻 **Currently Working On**: [Your Current Project/Technology]
-- 🎓 **Learning**: [Technologies/Skills You're Currently Learning]
-- 🤔 **Looking for Help With**: [Your Learning Goals or Projects]
-- 💬 **Ask Me About**: [Topics You're Comfortable Discussing]
+- 🎓 **Student**: [Rajalakshmi Engineering College]
+
 
 ---
 
@@ -35,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -61,23 +54,6 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://in.linkedin.com/in/sree-vignesh-807284249)
-
----
-
-## 📅 Contribution Graph
-
-![Contribution Graph](https://github.com/sree-vignesh/sree-vignesh/blob/main/github-contribution-grid-snake.svg)
-
----
-
-
-## 📈 Weekly Contribution Activity
-
-![Weekly Contribution Activity](https://github-readme-stats.vercel.app/api/wakatime?username=sree-vignesh)
-
----
-
-
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me!
 And make sure to smile!
