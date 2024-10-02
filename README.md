@@ -50,11 +50,6 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 ---
 
-## 📊 LeetCode Stats
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/w-i-kki)](https://leetcode.com/w-i-kki)
-
----
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://in.linkedin.com/in/sree-vignesh-807284249)
