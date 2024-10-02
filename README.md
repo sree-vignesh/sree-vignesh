@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 ---
 
-## 📊 GitHub Stats
+## 📊 LeetCode Stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/w-i-kki)](https://leetcode.com/w-i-kki)
 
