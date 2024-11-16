@@ -58,5 +58,5 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 - [LinkedIn](https://in.linkedin.com/in/sree-vignesh-807284249)
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me!
+Hello there! Feel free to explore my repositories and connect with me!
 And make sure to smile!
