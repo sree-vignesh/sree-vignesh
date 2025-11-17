@@ -49,8 +49,8 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sree-vignesh&rank_icon=percentile&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sree-vignesh&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sree-vignesh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sree-vignesh&stats_format=bytes&layout=compact&theme=radical)
 
 ---
 
